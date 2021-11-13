@@ -1,7 +1,5 @@
 # Siamese-Network
 
-# Question Answering Task using T5 model.
-
 # Description:
 
 ## Siamese Network for Handwritten letters Classification.
