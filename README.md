@@ -2,7 +2,7 @@
 
 # Description:
 
-## Siamese Network for Handwritten letter Classification.
+## Siamese Network for Handwritten Character Classification.
 
 ## The term Siamese means twins.
 
