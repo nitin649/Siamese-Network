@@ -8,7 +8,7 @@
 
 # Project Structure
 
-1. For the purpose of this blog, we will use the Omniglot dataset which is a collection of 1623 hand drawn characters from 50 different alphabets. 
+1. For the purpose of this project, we will use the Omniglot dataset which is a collection of 1623 hand drawn characters from 50 different alphabets. 
    For every character there are just 20 examples, each drawn by a different person. Each image is a gray scale image of resolution 105x105
 
 2. Model Training
